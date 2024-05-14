@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Cat
+comment0.text=\r\n\ Cat\ has\ data\ of\ Pet\ class\ along\ with\ color.\ Adds\ color\ to\ the\ Pet\ to.String\r\n\r\n\ @author\ Chaz\ Harrison\r\n\ @version\ 10/1/2021\r\n
+comment1.params=color\ name\ health\ energy\ happiness
+comment1.target=Cat(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ feed()
+comment4.params=
+comment4.target=java.lang.String\ walk()
+numComments=5
